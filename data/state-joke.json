@@ -1,0 +1,58 @@
+{
+  "generated_at": "2026-10-20T08:18:48.226496+00:00",
+  "sources": {
+    "github_stars": {
+      "stars": {
+        "anthropics/claude-code": 152821,
+        "ollama/ollama": 183916,
+        "vllm-project/vllm": 94191,
+        "langchain-ai/langchain": 148114,
+        "crewAIInc/crewAI": 59901,
+        "microsoft/autogen": 61495,
+        "browser-use/browser-use": 118592,
+        "stanfordnlp/dspy": 38705
+      }
+    },
+    "ai_models": {
+      "downloads": {}
+    },
+    "crypto": {
+      "fng": 57
+    },
+    "macro": {
+      "gold": 4123.799805,
+      "fx": {
+        "EUR/USD": 1.1225,
+        "USD/CNY": 6.6807126948775055,
+        "USD/JPY": 158.24498886414253
+      }
+    },
+    "trade": {
+      "fx": {
+        "USD/CNY": 6.6807126948775055,
+        "USD/JPY": 158.24498886414253,
+        "USD/HKD": 7.848285077951001,
+        "EUR/USD": 1.1225
+      }
+    },
+    "hiring": {
+      "thread_jobs": 394,
+      "fn_counts": {
+        "machine learning": 13,
+        "ml": 41,
+        "research": 37,
+        "frontend": 11,
+        "backend": 52,
+        "infra": 65,
+        "design": 81,
+        "product": 168,
+        "sales": 22,
+        "legal": 4
+      },
+      "boards": {
+        "gh:anthropic": 666,
+        "lv:mistral": 0
+      }
+    }
+  }
+}

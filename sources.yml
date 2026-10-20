@@ -1,0 +1,207 @@
+# ============================================================
+# joke_trends / hr_trends —— 周报数据源配置
+# 两个 profile 共用同一套代码，靠 profile 选择不同数据源集合
+# ============================================================
+
+profiles:
+
+  # ----------------------------------------------------------
+  # 公开仓库 joke_trends 全量版
+  # ----------------------------------------------------------
+  joke:
+    title: "每周热点趋势 · Joke Trends"
+    tagline: "AI / 加密 / 宏观 / 科技招聘 / 前沿研究 的周度观察"
+    max_items: 5          # 每个 section 最多条数
+    manual_notes: manual/notes.md
+    mail: false           # 公开版不发邮件；如也要邮件推送改成 true 并配 Secret
+    sources:
+      - key: github_stars
+        type: github_stars
+        enabled: true
+        title: "GitHub Star 火箭榜"
+        watchlist:
+          - anthropics/claude-code
+          - ollama/ollama
+          - vllm-project/vllm
+          - langchain-ai/langchain
+          - crewAIInc/crewAI
+          - microsoft/autogen
+          - browser-use/browser-use
+          - stanfordnlp/dspy
+        search_keyword: "ai agent OR llm"
+        search_days: 30
+        search_limit: 5
+
+      - key: predictions
+        type: predictions
+        enabled: true
+        title: "预测市场风向"
+        keywords: ["AI", "Trump", "Bitcoin", "recession"]
+
+      - key: ai_models
+        type: ai_models
+        enabled: true
+        title: "AI 模型动态"
+        hf_limit: 8
+
+      - key: hotnets
+        type: hotnets
+        enabled: true
+        title: "热搜雷达（头条 / 百度 / X / TikTok）"
+
+      - key: crypto
+        type: crypto
+        enabled: true
+        title: "加密货币市场情绪"
+
+      - key: macro
+        type: macro
+        enabled: true
+        title: "黄金 / 美元 / 宏观数据"
+
+      - key: trade
+        type: trade
+        enabled: true
+        title: "全球贸易风向"
+
+      - key: saas_deals
+        type: rss
+        enabled: true
+        title: "SaaS 签单与交易"
+        feeds:
+          - https://www.saastr.com/feed/
+          - https://techcrunch.com/feed/
+        keywords: ["saas", "acquisition", "acquired", "series a", "series b", "series c", "funding", "raises", "m&a"]
+        limit: 4
+
+      - key: ai_funding
+        type: rss
+        enabled: true
+        title: "AI 创业公司融资"
+        feeds:
+          - https://techcrunch.com/category/artificial-intelligence/feed/
+          - https://venturebeat.com/category/ai/feed/
+          - https://news.crunchbase.com/feed/
+        keywords: ["raises", "series", "funding", "acqui", "round", "valuation"]
+        hn_query: '"raises" OR "Series A" OR "Series B" AI startup'
+        limit: 5
+
+      - key: ai_cases
+        type: rss
+        enabled: true
+        title: "AI 商业落地案例"
+        feeds:
+          - https://venturebeat.com/category/ai/feed/
+          - https://www.producthunt.com/feed
+        keywords: ["enterprise", "agent", "deploy", "launch", "workflow", "copilot", "ai"]
+        hn_query: "AI agent production enterprise"
+        limit: 5
+
+      - key: linux_news
+        type: rss
+        enabled: true
+        title: "Linux / 开源动态"
+        feeds:
+          - https://www.phoronix.com/rss.php
+          - https://lwn.net/headlines/rss
+          - https://distrowatch.com/news/dw.xml
+        keywords: ["linux", "kernel", "distro", "ubuntu", "fedora", "debian", "gnome", "kde", "wayland", "systemd", "arch", "qt", "vulkan", "driver"]
+        filter: false       # 不过滤直接取前 N，信源本身就是 Linux 垂直站
+        limit: 5
+
+      - key: hardware
+        type: rss
+        enabled: true
+        title: "电脑硬件 / 内存行情"
+        feeds:
+          - https://www.tomshardware.com/feeds/all
+          - https://www.techpowerup.com/rss/news
+        keywords: ["ddr5", "dram", "memory", "ram", "ssd", "nand", "gpu", "rtx", "ryzen", "cpu", "price", "store"]
+        limit: 5
+
+      - key: research
+        type: research
+        enabled: true
+        title: "前沿科学雷达"
+        arxiv_categories: ["cs.AI", "cs.CL", "cs.LG", "quant-ph"]
+        arxiv_limit: 5
+
+      - key: hiring
+        type: hiring
+        enabled: true
+        title: "科技招聘前沿"
+        boards:
+          greenhouse: [anthropic, deepmind, mistralai]
+          lever: ["mistral"]
+        fn_keywords: ["machine learning", "ml", "research", "frontend", "backend", "infra", "design", "product", "sales", "legal"]
+
+  # ----------------------------------------------------------
+  # 私人仓库 hr_trends 精选版
+  # ----------------------------------------------------------
+  hr:
+    title: "HR 行业周报 · HR Trends"
+    tagline: "HR 融资 / 招投标 / 职位变化 / AI 在 HR 的落地"
+    max_items: 5
+    manual_notes: manual/notes.md
+    sources:
+      - key: hr_news
+        type: rss
+        enabled: true
+        title: "HR 行业新闻"
+        feeds:
+          - https://joshbersin.com/feed/
+          - https://www.hrdive.com/feeds/news/
+          - https://news.crunchbase.com/feed/
+        keywords: ["hr", "recruit", "talent", "hiring", "workforce", "payroll", "benefit", "staffing", "ats", "hris", "people analytics"]
+        limit: 5
+
+      - key: hr_funding
+        type: rss
+        enabled: true
+        title: "HR / 招聘赛道融资"
+        feeds:
+          - https://techcrunch.com/feed/
+          - https://news.crunchbase.com/feed/
+        keywords: ["hr", "recruiting", "recruitment", "talent", "hiring", "funding for", "raises", "series"]
+        hn_query: 'HR OR recruiting OR hiring startup "raises"'
+        limit: 5
+
+      - key: hr_ai_cases
+        type: rss
+        enabled: true
+        title: "AI 在 HR 的落地案例"
+        feeds:
+          - https://www.hrdive.com/feeds/news/
+          - https://joshbersin.com/feed/
+          - https://venturebeat.com/category/ai/feed/
+        keywords: ["ai", "agent", "recruiting", "hiring", "resume", "candidate", "interview", "hr automation"]
+        hn_query: '"AI recruiting" OR "AI hiring" OR "HR agent"'
+        limit: 5
+
+      - key: enterprise_ai
+        type: rss
+        enabled: true
+        title: "AI 企业管理应用观察"
+        feeds:
+          - https://venturebeat.com/category/ai/feed/
+          - https://techcrunch.com/category/artificial-intelligence/feed/
+        keywords: ["enterprise", "sap", "oracle", "salesforce", "workflow", "automation", "agent"]
+        limit: 4
+
+      - key: hr_jobs
+        type: hiring
+        enabled: true
+        title: "HR / 科技职位变化"
+        boards:
+          greenhouse: [anthropic, deepmind, mistralai]
+          lever: ["mistral"]
+        fn_keywords: ["hr", "recruiter", "people ops", "talent", "machine learning", "ml", "frontend", "backend", "design", "sales"]
+
+      - key: hr_bidding
+        type: manual
+        enabled: true
+        title: "HR 招投标情报（人工维护）"
+        template: manual/hr_bidding.md
+
+    # 该 profile 允许邮件推送（真正发信还需要仓库 Secret：SMTP_USER / SMTP_PASS / MAIL_TO）
+    mail: true

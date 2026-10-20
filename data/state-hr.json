@@ -1,0 +1,24 @@
+{
+  "generated_at": "2026-10-20T08:24:56.590921+00:00",
+  "sources": {
+    "hr_jobs": {
+      "thread_jobs": 394,
+      "fn_counts": {
+        "hr": 262,
+        "recruiter": 9,
+        "people ops": 0,
+        "talent": 11,
+        "machine learning": 13,
+        "ml": 41,
+        "frontend": 11,
+        "backend": 52,
+        "design": 81,
+        "sales": 22
+      },
+      "boards": {
+        "gh:anthropic": 666,
+        "lv:mistral": 0
+      }
+    }
+  }
+}

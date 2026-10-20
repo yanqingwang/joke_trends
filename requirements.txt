@@ -1,0 +1,6 @@
+requests>=2.31
+feedparser>=6.0
+PyYAML>=6.0
+beautifulsoup4>=4.12
+lxml>=4.9
+Markdown>=3.5
