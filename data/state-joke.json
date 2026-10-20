@@ -1,26 +1,91 @@
 {
-  "generated_at": "2026-10-20T08:18:48.226496+00:00",
+  "generated_at": "2026-10-20T08:28:09.948878+00:00",
   "sources": {
     "github_stars": {
       "stars": {
-        "anthropics/claude-code": 152821,
-        "ollama/ollama": 183916,
-        "vllm-project/vllm": 94191,
-        "langchain-ai/langchain": 148114,
-        "crewAIInc/crewAI": 59901,
+        "anthropics/claude-code": 152827,
+        "ollama/ollama": 183919,
+        "vllm-project/vllm": 94194,
+        "langchain-ai/langchain": 148117,
+        "crewAIInc/crewAI": 59902,
         "microsoft/autogen": 61495,
-        "browser-use/browser-use": 118592,
+        "browser-use/browser-use": 118595,
         "stanfordnlp/dspy": 38705
       }
     },
+    "predictions": {
+      "quotes": {
+        "Will FC Barcelona win on 2026-10-20?": 0.395,
+        "US x Iran ceasefire continues through October 22?": 0.9155,
+        "Will the Fed decrease interest rates by 25 bps after the October 2026 meeting?": 0.0035,
+        "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?": 0.145,
+        "Will there be no change in Fed interest rates after the October 2026 meeting?": 0.855,
+        "US x Iran ceasefire continues through October 31?": 0.785,
+        "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?": 0.7675,
+        "Will the Fed increase interest rates by 50+ bps after the October 2026 meeting?": 0.0035,
+        "Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?": 0.0015,
+        "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?": 0.225,
+        "Japan Women's Open: Moyuka Uchijima vs Ena Shibahara": 0.9995,
+        "2026 Balance of Power: R Senate, D House": 0.285,
+        "Will Kylian Mbappé win the 2026 Ballon d'Or?": 0.0485,
+        "Will Erling Haaland win the 2026 Ballon d'Or?": 0.0015,
+        "Will Benjamin Netanyahu be the next Prime Minister of Israel?": 0.275,
+        "Putin out as President of Russia by December 31, 2026?": 0.0235,
+        "Will SSC Napoli win on 2026-10-20?": 0.555,
+        "Will there be no Hormuz agreement?": 0.911,
+        "Kim Jong Un out as Supreme Leader of North Korea by December 31, 2026?": 0.0565,
+        "Japan Women's Open: Maya Joint vs Zeynep Sonmez": 0.365,
+        "M15 Sharm ElSheikh: Artur Kukasian vs Idriss Haddouch": 0.85,
+        "Strait of Hormuz traffic returns to normal by December 31?": 0.125,
+        "Will Lamine Yamal win the 2026 Ballon d'Or?": 0.1925,
+        "Almaty Open: Terence Atmane vs Rinky Hijikata": 0.9995,
+        "Will the Democratic Party control the House after the 2026 Midterm elections?": 0.915,
+        "Almaty Open: Sho Shimabukuro vs Roman Safiullin": 0.6915,
+        "Will AEK win on 2026-10-20?": 0.0385,
+        "Will Barack Obama win the 2028 Democratic presidential nomination?": 0.0025,
+        "US-Iran ceasefire continues through the midterms?": 0.765,
+        "Will Harry Kane win the 2026 Ballon d'Or?": 0.734,
+        "Israel x Iran ceasefire continues through October 21?": 0.9775,
+        "US announces end of Iranian blockade by October 31, 2026?": 0.095,
+        "Will Raphaël Glucksmann win the 2027 French presidential election?": 0.0445,
+        "Will the Democrats win the Texas Senate race in 2026?": 0.625,
+        "LoL: G2 Esports vs Dplus KIA (BO1) - Worlds Group Stage": 0.385,
+        "Will Khvicha Kvaratskhelia win the 2026 Ballon d'Or?": 0.0035,
+        "Will Lionel Messi win the 2026 Ballon d'Or?": 0.0225,
+        "2026 Balance of Power: D Senate, D House": 0.625,
+        "Counter-Strike: Alliance vs PRIVATE (BO3) - 1win Private Club Playoffs": 0.585,
+        "Will there be a Hormuz agreement and the Republicans win the Senate?": 0.0395,
+        "Will Lille win the 2026-27 UEFA Champions League Championship?": 0.0015,
+        "Will Flávio Bolsonaro win the second round of the 2026 Brazilian presidential election by 8–12%?": 0.0565,
+        "Will Michael Olise win the 2026 Ballon d'Or?": 0.0015,
+        "Will Stephen A. Smith win the 2028 Democratic presidential nomination?": 0.0015,
+        "Guangzhou 2: Cruz Hewitt vs Rigele Te": 0.535,
+        "Will Puma Shen win the next Taipei Mayor election?": 0.4305,
+        "Next White House Press Secretary announced by November 30, 2026?": 0.495,
+        "Will Ousmane Dembélé win the 2026 Ballon d'Or?": 0.0015,
+        "Will there be a Hormuz agreement and the Democrats win the Senate?": 0.0285,
+        "Will Rodri win the 2026 Ballon d'Or?": 0.0035
+      }
+    },
     "ai_models": {
-      "downloads": {}
+      "downloads": {
+        "sentence-transformers/all-MiniLM-L6-v2": 206019071,
+        "cross-encoder/ms-marco-MiniLM-L6-v2": 75595309,
+        "BAAI/bge-small-en-v1.5": 57222901,
+        "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2": 43846744,
+        "google/electra-base-discriminator": 41851511,
+        "BAAI/bge-m3": 31379839,
+        "google-bert/bert-base-uncased": 30080477,
+        "Qwen/Qwen3-0.6B": 28577260
+      }
     },
     "crypto": {
-      "fng": 57
+      "fng": 57,
+      "p_bitcoin": 81504,
+      "p_ethereum": 2387.66
     },
     "macro": {
-      "gold": 4123.799805,
+      "gold": 4124.200195,
       "fx": {
         "EUR/USD": 1.1225,
         "USD/CNY": 6.6807126948775055,
