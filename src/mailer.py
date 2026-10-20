@@ -29,8 +29,8 @@ def enabled(profile_cfg: dict) -> bool:
 
 
 def send(subject: str, md_text: str, attach_path: str | None = None) -> None:
-    host = os.environ.get("SMTP_HOST", "smtp.qq.com")
-    port = int(os.environ.get("SMTP_PORT", "465"))
+    host = os.environ.get("SMTP_HOST") or "smtp.qq.com"
+    port = int(os.environ.get("SMTP_PORT") or 465)
     user = os.environ["SMTP_USER"]
     pwd = os.environ["SMTP_PASS"]
     from_addr = os.environ.get("MAIL_FROM", user)
@@ -50,7 +50,6 @@ def send(subject: str, md_text: str, attach_path: str | None = None) -> None:
         att.add_header("Content-Disposition", "attachment",
                        filename=("utf-8", "", os.path.basename(attach_path)))
         msg.attach(att)
-
     ctx = ssl.create_default_context()
     if port == 465:
         server = smtplib.SMTP_SSL(host, port, context=ctx, timeout=30)
