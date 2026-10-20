@@ -2,7 +2,7 @@
 
 每周一早上（北京时间 11:00 左右）由 GitHub Actions 自动抓取全网公开数据源，生成一份「群众的快乐与焦虑」周报，Markdown 形式，内含内联 SVG 图表，直接可分享。
 
-## 报告内容（公开仓库 joke_trends 版）
+## 报告内容
 
 | 板块 | 数据源 |
 |---|---|
@@ -21,23 +21,12 @@
 
 每节条数受限（默认 ≤5 条），保证「扫一眼能看完」。
 
-## 报告内容（私人仓库 hr_trends 版）
-
-同一套代码，通过 `sources.yml` 的 `hr` profile 切换，只保留：
-
-- HR 行业新闻（Josh Bersin / HR Dive / Crunchbase RSS）
-- HR / 招聘赛道融资
-- AI 在 HR 的落地案例
-- AI 企业管理应用观察
-- HR / 科技职位变化（Greenhouse/Lever + HN）
-- 招投标情报（人工维护 `manual/hr_bidding.md`）
-
 ## 本地运行
 
 ```bash
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
-python -m src.main --profile joke   # 或 --profile hr
+python -m src.main --profile joke
 ```
 
 输出：`reports/{year}-W{ww}.md`（`reports/weekly.md` 固定为最新一期）。
@@ -54,7 +43,6 @@ python -m src.main --profile joke   # 或 --profile hr
 每周需要人工编辑的地方：
 
 - `manual/notes.md` —— 全局补充，会进「✍️ 手动补充区」。
-- `manual/hr_bidding.md` —— HR 招投标情报，把占位行换成真实条目即可。
 
 ## 可选增强
 
