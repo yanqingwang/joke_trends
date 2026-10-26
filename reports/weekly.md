@@ -1,172 +1,169 @@
 # 每周热点趋势 · Joke Trends
 
-**2026 年第 43 周** · 生成于 2026-10-20（UTC）
+**2026 年第 44 周** · 生成于 2026-10-26（UTC）
 > AI / 加密 / 宏观 / 科技招聘 / 前沿研究 的周度观察
 
 ## 📌 一句话速览
 
-- **GitHub Star 火箭榜**：**anthropics/claude-code** — ★ 152.8k 与上周比 ▲ 6
-- **预测市场风向**：Strait of Hormuz traffic returns to normal by December 31? — **P(Yes) 12%**
-- **AI 模型动态**：🧠 **sentence-transformers/all-MiniLM-L6-v2** — 30 天下载 206.02M
+- **GitHub Star 火箭榜**：**anthropics/claude-code** — ★ 153.4k 与上周比 ▲ 582
+- **预测市场风向**：Billionaire one-time wealth tax passes in California election 2026? — **P(Yes) 24%**
+- **AI 模型动态**：🧠 **sentence-transformers/all-MiniLM-L6-v2** — 30 天下载 190.19M ▼ -7.7%
 - **热搜雷达（头条 / 百度 / X / TikTok）**：**🇨🇳 百度热榜：**
-- **加密货币市场情绪**：😱 **恐惧贪婪指数 57（Greed）** ▼ -8% — 7 天走势见下图
-- **黄金 / 美元 / 宏观数据**：🥇 **金 $4,124/oz** ▲ +0.0%
+- **加密货币市场情绪**：😱 **恐惧贪婪指数 59（Greed）** ▲ +7% — 7 天走势见下图
+- **黄金 / 美元 / 宏观数据**：🥇 **金 $4,016/oz** ▼ -2.6%
 
 ---
 
 ## GitHub Star 火箭榜
 
-**anthropics/claude-code** — ★ 152.8k 与上周比 ▲ 6
-**ollama/ollama** — ★ 183.9k 与上周比 ▲ 3
-**vllm-project/vllm** — ★ 94.2k 与上周比 ▲ 3
-**langchain-ai/langchain** — ★ 148.1k 与上周比 ▲ 3
-**crewAIInc/crewAI** — ★ 59.9k 与上周比 ▲ 1
-**microsoft/autogen** — ★ 61.5k
-**browser-use/browser-use** — ★ 118.6k 与上周比 ▲ 3
-**stanfordnlp/dspy** — ★ 38.7k
+**anthropics/claude-code** — ★ 153.4k 与上周比 ▲ 582
+**ollama/ollama** — ★ 184.8k 与上周比 ▲ 895
+**vllm-project/vllm** — ★ 95.6k 与上周比 ▲ 1.4k
+**langchain-ai/langchain** — ★ 148.5k 与上周比 ▲ 362
+**crewAIInc/crewAI** — ★ 60.1k 与上周比 ▲ 210
+**microsoft/autogen** — ★ 61.6k 与上周比 ▲ 73
+**browser-use/browser-use** — ★ 119.2k 与上周比 ▲ 565
+**stanfordnlp/dspy** — ★ 38.8k 与上周比 ▲ 87
 
 **最近 30 天冒头的新 AI 仓库：**
-💎 **KKKKhazix/AIHOT** ★8.1k — 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。
-💎 **zai-org/ZCode** ★8.0k — Z.ai's coding agent harness. Powerful, intelligent, extensible.
-💎 **CopilotKit/OpenDots** ★5.6k — Your always-on AI coworkers that move between text, calls, and Slack.
-💎 **Louis-CFM/coucou** ★5.6k — A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your AI coding agents: Claude Code, Codex, Cur
-💎 **omlahore/RemoveMacAI** ★5.0k — Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native app and CLI, and every change can be un
+💎 **KKKKhazix/AIHOT** ★8.6k — 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。
+💎 **Louis-CFM/coucou** ★6.5k — A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your AI coding agents: Claude Code, Codex, Cur
+💎 **CopilotKit/OpenDots** ★6.0k — Your always-on AI coworkers that move between text, calls, and Slack.
+💎 **omlahore/RemoveMacAI** ★5.3k — Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native app and CLI, and every change can be un
+💎 **kaankiziltug/logo-design-skill** ★4.6k — A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, tes
 
 ## 预测市场风向
 
- Strait of Hormuz traffic returns to normal by December 31? — **P(Yes) 12%**
- Will Puma Shen win the next Taipei Mayor election? — **P(Yes) 43%**
+ Billionaire one-time wealth tax passes in California election 2026? — **P(Yes) 24%**
+ Will China invade Taiwan by end of 2026? — **P(Yes) 2%**
 
 > 💡 数据源：polymarket.com Gamma API · 24h 成交量前几名
 
 ## AI 模型动态
 
-🧠 **sentence-transformers/all-MiniLM-L6-v2** — 30 天下载 206.02M
-🧠 **cross-encoder/ms-marco-MiniLM-L6-v2** — 30 天下载 75.60M
-🧠 **BAAI/bge-small-en-v1.5** — 30 天下载 57.22M
-🧠 **sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2** — 30 天下载 43.85M
-🧠 **google/electra-base-discriminator** — 30 天下载 41.85M
+🧠 **sentence-transformers/all-MiniLM-L6-v2** — 30 天下载 190.19M ▼ -7.7%
+🧠 **cross-encoder/ms-marco-MiniLM-L6-v2** — 30 天下载 70.64M ▼ -6.6%
+🧠 **BAAI/bge-small-en-v1.5** — 30 天下载 53.07M ▼ -7.3%
+🧠 **sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2** — 30 天下载 39.23M ▼ -10.5%
+🧠 **google/electra-base-discriminator** — 30 天下载 31.31M ▼ -25.2%
 
 > 💡 排名按 30 天下载量（HF 官方榜）；需要 LMArena 级综合评测分数时，可配 AA_API_KEY 环境变量获取 Artificial Analysis 数据。
 
 ## 热搜雷达（头条 / 百度 / X / TikTok）
 
 **🇨🇳 百度热榜：**
-· 车灯禁止显示表情包 <https://m.baidu.com/s?word=%E8%BD%A6%E7%81%AF%E7%A6%81%E6%AD%A2%E6%98%BE%E7%A4%BA%E8%A1%A8%E6%83%85%E5%8C%85&sa=fyb\_news>
-· AI陪骗子聊天初创公司融资800万美元 <https://m.baidu.com/s?word=AI%E9%99%AA%E9%AA%97%E5%AD%90%E8%81%8A%E5%A4%A9%E5%88%9D%E5%88%9B%E5%85%AC%E5%8F%B8%E8%9E%8D%E8%B5%84…
-· 山东淄博市副市长沙向东被查 <https://m.baidu.com/s?word=%E5%B1%B1%E4%B8%9C%E6%B7%84%E5%8D%9A%E5%B8%82%E5%89%AF%E5%B8%82%E9%95%BF%E6%B2%99%E5%90%91%E4%B8%9C%E8%A2%A…
-· 4人火锅店就餐后舌苔发黑 <https://m.baidu.com/s?word=4%E4%BA%BA%E7%81%AB%E9%94%85%E5%BA%97%E5%B0%B1%E9%A4%90%E5%90%8E%E8%88%8C%E8%8B%94%E5%8F%91%E9%BB%91&sa=fyb\_…
-· 钟南山90岁了 出席活动一路小跑 <https://m.baidu.com/s?word=%E9%92%9F%E5%8D%97%E5%B1%B190%E5%B2%81%E4%BA%86+%E5%87%BA%E5%B8%AD%E6%B4%BB%E5%8A%A8%E4%B8%80%E8%B7%AF%E…
+· 平台怎能既当运动员又当裁判员 <https://m.baidu.com/s?word=%E5%B9%B3%E5%8F%B0%E6%80%8E%E8%83%BD%E6%97%A2%E5%BD%93%E8%BF%90%E5%8A%A8%E5%91%98%E5%8F%88%E5%BD%93%E8%A3%…
+· AI探店火了 有代做公司月流水800万 <https://m.baidu.com/s?word=AI%E6%8E%A2%E5%BA%97%E7%81%AB%E4%BA%86+%E6%9C%89%E4%BB%A3%E5%81%9A%E5%85%AC%E5%8F%B8%E6%9C%88%E6%B5%8…
+· 张雪员工：入职第二个月就升职加薪 <https://m.baidu.com/s?word=%E5%BC%A0%E9%9B%AA%E5%91%98%E5%B7%A5%EF%BC%9A%E5%85%A5%E8%81%8C%E7%AC%AC%E4%BA%8C%E4%B8%AA%E6%9C%88%E5%B…
+· 男子用树枝搭建巨型齐天大圣 <https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E7%94%A8%E6%A0%91%E6%9E%9D%E6%90%AD%E5%BB%BA%E5%B7%A8%E5%9E%8B%E9%BD%90%E5%A4%A9%E5%A4%A…
+· 吴尊回应女儿NeiNei会不会出道 <https://m.baidu.com/s?word=%E5%90%B4%E5%B0%8A%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%84%BFNeiNei%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%87%BA%E9%81%…
 **🌍 X/Twitter 热点：**
-· #DataCenterBatam
-· #EndSARS
-· Investasi AI Batam
-· #HappyDussehra
-· 土田さん
+· Lula
+· Komanche
+· Brazil
+· #はま寿司旨ねたこれ食べる
+· #nonaxShopee
 **🇺🇸 美国搜索热点（Google Trends，可窥 TikTok/Reddit 舆情）：**
-· what
-· emma watson
-· nyt connections hints
-· flood watch
-· pak vs eng
+· paula badosa
+· midterm elections 2026
+· alexandra eala
+· vacation
+· chad green
 
 > 💡 本节来源：百度 · X · GoogleTrends-US
 
 ## 加密货币市场情绪
 
-<div style="max-width:640px;margin:6px 0"><svg xmlns="http://www.w3.org/2000/svg" width="240" height="44" role="img"><polyline points="0.0,33.2 34.3,19.6 68.6,40.0 102.9,33.2 137.1,6.0 171.4,40.0 205.7,9.4 240.0,26.4" fill="none" stroke="#22a06b" stroke-width="2"/></svg></div>
+<div style="max-width:640px;margin:6px 0"><svg xmlns="http://www.w3.org/2000/svg" width="240" height="44" role="img"><polyline points="0.0,40.0 34.3,32.4 68.6,38.1 102.9,40.0 137.1,6.0 171.4,15.4 205.7,30.6 240.0,23.0" fill="none" stroke="#22a06b" stroke-width="2"/></svg></div>
 
-😱 **恐惧贪婪指数 57（Greed）** ▼ -8% — 7 天走势见下图
-🪙 **BTC $81.5k**，7 天 -2.7%
-🪙 **ETH $2.4k**，7 天 -5.7%
+😱 **恐惧贪婪指数 59（Greed）** ▲ +7% — 7 天走势见下图
+🪙 **BTC $80.2k**，7 天 -3.4%
+🪙 **ETH $2.3k**，7 天 -4.6%
 **爆仓 / 暴跌相关头条：**
-· [‘Black Monday’ Fears Grip Crypto Twitter After Bitcoin, Ethereum and $33M AI Perps Flash Crash - Yahoo Finance](https://news.google.com/rss/articles/CBMimwFBVV95cUxOT0l4dC1IMFpzWnlDTXBCeUtEc0VmZGJxa0gyMDVydUgxNFRfcXE0eVh5QldOVGVGUDZGNm5xRnlCZUNsNm5sc19Gd3NsSXo3MlRLSU9NMThYMFprczF6dThTU19USS0yaFFEMzF2WUEta3NXRFNENTN1dmVHMG9VOXU5Yy1XVWxCemZENlUzcGk5aGREdjNuWVczTQ?oc=5)
-· [Will Crypto Crash the Blue Wave? - Paul Krugman | Substack](https://news.google.com/rss/articles/CBMidEFVX3lxTE5NeE84aHR1OGVWMTIzUzZ3bkxFbWpSV0RaSkhaRkhiZDlfVVg4aFdKZTBRNDAxa3RjY1lleFhsV2hPcUNjYjZ0TDZhQ2pRRGprZGN4NUxjT2hiZWNWTEg0ai1jeGt6bjJIUUE5Q1VRSVBpaWst?oc=5)
-· [Bitcoin's $19 billion wake-up call: One-year after flash crash, has crypto learned anything? - CoinDesk](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVmZvc0hicDBKYmo3ajc3dmNsdDF0V0JGTXJVQnNnbnVCNmhtRFYzZDVwelhKQlZOd1cyM3VWeXpzdjd3MkFhQnNnT0ZYcVJEbEJFUV90Zk40QUowZmhnTkRKenI3RXRzTDFfaUtWcDNCSzY1WUJDekQ1X3duOXBnbk9sVDF2TnRfT3hVVkVnS1N0bFpIbXQ1OW5LYXBQQkpPcFAtc1MtVHc2endMeFFPeU5NNEhVb0VsSXNmZGJ2clk?oc=5)
+· [Bitcoin Faces Make-or-Break Weekend as Market Crash Fears Grow - Yahoo Finance](https://news.google.com/rss/articles/CBMioAFBVV95cUxNTkUwU1JWR212NHV1M0loaUpEcnloQmJnVGlvWTV6MUxwR3VFdEFlcGVvOVFIelR4cXlBLUt5c2xlaFp6N1Z3WDVILWdzYVhteXpxN3lydUJvV0pXZjJpZklIaU1ZZGlUM2Iwd2FyMUExQzVzWEV3SFZ2ODFydHBpWXFfY2xUQ1BvbktlTkFya19jZ2lqNkhIaW9obW80R0ND?oc=5)
+· [Bitcoin Price Crash: Top 3 Reasons Why BTC Price Dropped Below $80,000 - CryptoTicker](https://news.google.com/rss/articles/CBMigwFBVV95cUxPRVJiZGdURF9OZEhaOHFkMlZnRTJVdkdxQl9TWnVHdUtsSGpoS2RMOHVpMjd4bmNPYmZlUFFtT1VEd0ZZN1BiOHh2VG5xOWtVekQtWVU3THFCNUE4VDYzd1FiOEc2NGw0anZiSFEyWkRiSzJzeTAtamdNTnBBbXgweTZvWQ?oc=5)
+· [Bitcoin ‘Going To Zero’—Sudden Shock Flip Sparks Imminent Price Crash Fears - Forbes](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPR2RMVU11Wll4Q2RwVzVXT0lKNUJRSVFLUFVSTndSSWo0WnJNTVpMa2N3RXoxSFhUTzJIUThLMzh6WHNHSW9VazRRalFKWHpzVDkxVk84T2NmZktpUUg3LWVoOE9iMWtreFN3bTRDYUZMcGJJZlNLRkFBZDNDVjBJdnNTWDIwQmVjLTg5WEhRVHEydlBDaDBKTVpnNU1CSVpvWDdoYjB4UGI4MnNwN0d6ZFZZYjNVeUFnOHVTSUZrSDhuU1o5dDlYSA?oc=5)
 
 > 💡 来源：alternative.me 恐惧贪婪指数 · CoinGecko · 公开新闻 RSS（爆仓精确金额建议参考 coinglass.com 手动补充）
 
 ## 黄金 / 美元 / 宏观数据
 
-🥇 **金 $4,124/oz** ▲ +0.0%
-💱 USD/CNY **6.6807**
-💱 USD/JPY **158.24**
+🥇 **金 $4,016/oz** ▼ -2.6%
+💱 USD/CNY **6.6702**
+💱 USD/JPY **156.80**
 
 > 💡 来源：gold-api.com · Yahoo Finance · 欧央行参考汇率（ECB）。DXY 为 ICE 指数走势，个别资产可能临时缺数。
 
 ## 全球贸易风向
 
-💱 **EUR/USD** 1.1225
-💱 **USD/CNY** 6.68 （上周 6.68）
-💱 **USD/JPY** 158.24 （上周 158.24）
-💱 **USD/HKD** 7.85 （上周 7.85）
+💱 **EUR/USD** 1.1193
+💱 **USD/CNY** 6.67 （上周 6.68）
+💱 **USD/JPY** 156.80 （上周 158.24）
+💱 **USD/HKD** 7.84 （上周 7.85）
 **贸易 / 关税要闻：**
-· [When tariffs, AI, and compliance collide: Building resilience in global trade - Thomson Reuters tax](https://news.google.com/rss/articles/CBMilgFBVV95cUxQV3owSy03WDBicHpnNUZpYU1GUmI3ckRIMF9fZ2I5TlZRaW1UWlFJb2FFX0ZNRUZKVGh4TEhmdjF5REpqb3JCNmEyQ0tITVYwa1VpcmMwUnVxSVNTYVZVWXZDTlRiNkNQQTlGYndqYUFQa0d2d0lEX0FrVkx0MXlSWUt5d0hISmVMNUkwa2RQU1VSLXJXNFE?oc=5)
-· [“Trade Touches Everything. Why Doesn’t It Have Its Own Seat At The Table?” - Global Trade Magazine](https://news.google.com/rss/articles/CBMiowFBVV95cUxOXzVUc2lXRmtJQzYtWVJyQ0tPTGU0SEpmRkx2V1JMb2lEY2w5TEdEM0xhRE9YSUFOcmRaOWtvcUszWmliQ1hOYU9HcE1MV2ZnNEtObkhkU0FwWXhtdTB1SzhIZ2d0Sk96X0FNOTNRbko3NlFIM2l3bkIwV0tZY1gwbVFKY3Zzd3ltSEZwRkdCU183VVhodzFPeXM5azFTYWc5SHhJ?oc=5)
-· [China’s economy fueled by exports - The Arkansas Democrat-Gazette](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTzJDVEVxajF5SE1YS1lXbElWQVRuRE50Wmc5VUs3WTc2dlZpcnJpeEltZk45VUlWQV8wR1FTZVFXelRlbVFKajBBY3E2Zklmc3U2SzdWQ2E0bmdTeVl2dHdxWFFlV0Z5djM0TWZNOUNxelotRGd6dWZzeGVmbFN2Y0FTUXNEUGlM?oc=5)
-· [Tariff-ied! This Week in International Trade (October 19, 2026) - The National Law Review](https://news.google.com/rss/articles/CBMijAFBVV95cUxPTk5wcFNuY1NQckZINnFVV2hqc1FucmJVbEdTcXRFWE9TTWNlQ1R6LTRWTlJNOFZpRmxYdC1NTnNjaVlHNlhXWElTRU9GOFdmeGlmYTkwZFJJbHI5MFBQeU5JU2ZxcWhmdTJrRWpLWFU0RDU1ZjlUeXA4d0QtTW1WTV96R0ZLQnRQVUJSZ9IBkgFBVV95cUxOWllrbFBoUDBoRDcwTkxkZHVxUW9yWnBOU2toX2YzRUt6UGJWMWpEb1V5bWs2MHJlNnlkQk1QR0s1NDVDcXRNb2hxd1NKdDBTX1dMWkNLaE5KSTVFbjdnUGk2amJVaVZvLTlYMjlaajVpaWRTcWt3cGp5MWZPdXdNZEsteHdBTFFPSmtCdm5IeV94UQ?oc=5)
+· [Cross-Border Payments: How Faster Infrastructure Is Reshaping Global Commerce - Global Trade Magazine](https://news.google.com/rss/articles/CBMirAFBVV95cUxOYzhMNnlhSjN6TVVVOTJSMFJ6THliUXJCVjRDUDI1Q3BnVkpUVVlrNlNNb29Cb3JNSTJWb21SdnRoRGl5R3pHVXJsNlhWYlNrdXFldW1XVEo2TjFrN3RpZDIyeFNMX1BFQ2VRZlAtd2Q2SFp2Nkp0Nncydl83aTNleVBza0FVYkVqRGx4elNKckYtOFJVSm8xWkVKME1fM1UwRHJNNVZ0dTh4aWxi?oc=5)
+· [Global Investment Trends Monitor, No. 51 - UN Trade and Development (UNCTAD)](https://news.google.com/rss/articles/CBMieEFVX3lxTFBVLTRUWTRqN0ZwaHREQnRfZWJuaEhhd2doODA0ZHl4RDhDYndwc1I3MUp1WXJ5alRjMzlZVnQ2MkctdjJsLXZQZi1kV1FUQkhCQTl5bHlndUlkWmV1eHZ0YkRMU0N2VEdxZk16QkFPVGZZUnp2clBFUQ?oc=5)
+· [What the EU–China trade deal means for Asia - East Asia Forum](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRC1xd2RNdG44dE5tb0UwclFheHc1Q1g2ZlF6UER4VGcwNDhoRmdLamY1QkVCSEdZeUx5V1g1LXpIMHZCai0xRUJwX1hoUmtZWGNvVTVCRVcwSm9rSGpMbF92RVVmZUZ2Z0ZxQmdvRmpYUFVUSXdnbFB5TGhKZl8xamQ0Ti1oNDRz?oc=5)
+· [WTO | 2026 News items - AI boom and trade resilience to Middle East crisis lift outlook, but gains to be uneven - World Trade Organization](https://news.google.com/rss/articles/CBMidEFVX3lxTE5iWTJ4UUp2N1hUVGFYcGRzV3ducUN0eGV6dEJSMHVhaTFIZmExckgtc1lEX242TTdNdHlSLVN1NWQ2cWdKVE9TSE5mUW92eEFBX3N6ZExBOTQzTXZyWkFzSHZ1RXpTUURab3FFMDlWV253a1Fq?oc=5)
 
 > 💡 汇率反映贸易货币篮子对比欧元的走势；新闻来自公开 RSS。航运/集装箱指数暂无免 key API，欢迎手动补充。
 
 ## SaaS 签单与交易
 
-· [Tenstorrent hits $6.2B valuation to scale open-weight AI chips](https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/)
-· [AI assistant startup Town nabs unicorn valuation 4 months after launch](https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/)
-
-> 💡 按关键词相关度排序
+_信源全部不可达：https://www.saastr.com/feed/, https://techcrunch.com/feed/_
 
 ## AI 创业公司融资
 
-· [Exclusive: Chariot Raises $10M To Help Consumers Fight Back Against Hidden Fees And Hard-To-Cancel Subscriptions](https://news.crunchbase.com/ai/legal-tech-chariot-raise-stop-hidden-fees-subscriptions-hang/)
-· [Tenstorrent hits $6.2B valuation to scale open-weight AI chips](https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/)
-· [The Week’s 10 Biggest Funding Rounds: Spending Contracts For Latest AI-Driven Startup Batch](https://news.crunchbase.com/venture/biggest-funding-rounds-investors-scaled-back-ai-biotech-modal/)
-· [LatAm Startup Funding Jumps 26% In Q3 As VCs Begin ‘Rediscovering’ The Region](https://news.crunchbase.com/venture/q3-2026-latam-startup-funding-jumps-ai-fintech-mexico/)
+· [Exclusive: Slingshot Raises $27M In Seed Funding To Build An Insurer For Those Small Policies Sold At Checkout](https://news.crunchbase.com/fintech-ecommerce/insuretech/startup-slingshot-insurance-seed-funding-genteman/)
+· [OpenAI working on new $30B raise at $1.25T valuation ahead of IPO](https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/)
+· [The Week’s 10 Biggest Funding Rounds: AI Drives A Varied Lineup Of Large Financings](https://news.crunchbase.com/venture/biggest-funding-rounds-ai-defense-biotech-robotics-tenstorrent/)
+· [Acquirers Are Snapping Up Boom-Era Startups That Haven’t Raised Funding In Years](https://news.crunchbase.com/ma/acquired-boom-era-startups-ezcater-anyscale/)
 
 > 💡 按关键词相关度排序
 
 ## AI 商业落地案例
 
-· [Praex](https://www.producthunt.com/products/praex)
-· [The New Beings](https://www.producthunt.com/products/the-new-beings)
-· [call4me](https://www.producthunt.com/products/call4me)
-· [Sorcerer](https://www.producthunt.com/products/sorcerer)
+· [ManyAgents](https://www.producthunt.com/products/manyagents)
+· [AI Bridge](https://www.producthunt.com/products/ai-bridge)
+· [WhoIsCooking](https://www.producthunt.com/products/whoiscooking)
+· [Jobmate AI](https://www.producthunt.com/products/jobmate-ai-3)
 
 > 💡 按关键词相关度排序
 
 ## Linux / 开源动态
 
-· [Security updates for Monday](https://lwn.net/Articles/1101421/)
-· [Linux 7.4 Sunsetting Old EDAC Drivers Due To "AI Generated Fixes Frenzy"](https://www.phoronix.com/news/Linux-7.4-EDAC)
-· [Canonical's Multipass 1.17 Adds Direct Support For Non-Ubuntu Linux Distros](https://www.phoronix.com/news/Multipass-1.17)
-· [TAINT\_FORCED\_BIND Sent In For Linux 7.4 To Deal With Major Fuzzing Attack](https://www.phoronix.com/news/Linux-7.4-TAINT-FORCED-BIND)
+· [Cheap GameSir Nova Lite Gaming Controller Supported By Linux 7.4](https://www.phoronix.com/news/Linux-7.4-Input)
+· [Realtek rtl8723bs Driver Deleted From Staging Area In Linux 7.4](https://www.phoronix.com/news/Linux-7.4-Staging)
+· [Google's C Binder Driver Removed With Rust Binder Ready For "Few Billion Devices"](https://www.phoronix.com/news/Linux-7.4-Char-Misc)
+· [SteamOS 3.9.5 Released With Linux 7.2 Kernel, KDE Plasma 6.7 Desktop & Other Updates](https://www.phoronix.com/news/SteamOS-3.9.5)
 
 > 💡 按关键词相关度排序
 
 ## 电脑硬件 / 内存行情
 
-· [Save $500 on this 1440p gaming PC with an RTX 5070, now under $1,800](https://www.tomshardware.com/desktops/gaming-pcs/save-usd500-on-this-1440p-gaming-pc-with-an-rtx-5070-now-under-usd1-800-abs-flux-ii-aqua-rig-ships-with-a-20-core-intel-cpu-32gb-ddr5-and-a-1tb-ssd)
-· [PS6 RAM and Storage Alone Reportedly Cost Sony Over $680, Claims Leaker](https://www.techpowerup.com/353834/ps6-ram-and-storage-alone-reportedly-cost-sony-over-usd-680-claims-leaker)
-· [Nvidia RTX 5090 shipment worth $470,000 goes missing in Brazilian airport](https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-5090-shipment-worth-usd470-000-goes-missing-in-brazilian-airport-two-pallets-disappear-distributor-seeks-explanations-but-met-with-zero-answers)
-· [Grab an RTX 5090 for a discounted $5,300 as part of an MSI Infinite ZS prebuilt gaming PC](https://www.tomshardware.com/pc-components/gpus/grab-an-rtx-5090-for-discounted-usd5-300-as-part-of-an-msi-infinite-zs-prebuilt-gaming-pc-usd7-599-price-includes-other-components-worth-about-usd2-300-on-their-own)
+· [Save $450 on this 4K gaming PC with an RTX 5070 Ti and 9800X3D, now $2,549.99](https://www.tomshardware.com/desktops/gaming-pcs/save-usd450-on-this-4k-gaming-pc-with-an-rtx-5070-ti-and-9800x3d-now-usd2-549-99-liquid-cooled-abs-stratos-ii-ruby-rig-comes-with-32gb-ddr5-and-a-2tb-ssd)
+· [AMD CEO Lisa Su proposed bringing back the Ryzen 7 5800X3D, set plan in motion before DDR5 shortages](https://www.tomshardware.com/pc-components/cpus/amd-ceo-lisa-su-proposed-bringing-back-the-ryzen-7-5800x3d-set-plan-in-motion-before-ddr5-shortages-am4-cpu-considered-a-final-gift-to-loyal-fans-of-the-decade-old-socket)
+· [Save up to $800 on Acer’s ultra-slim RTX 5070 Ti gaming laptop — pay $2225 for the 16GB RAM model or upgrade to 32GB fo…](https://www.tomshardware.com/laptops/gaming-laptops/save-up-to-usd800-on-acers-ultra-slim-rtx-5070-ti-gaming-laptop-pay-usd2225-for-the-16gb-ram-model-or-upgrade-to-32gb-for-usd2400)
+· [Leaked video exposes how industrial-scale Chinese factories are dismantling RTX 5090s by the thousands to fuel AI serve…](https://www.tomshardware.com/pc-components/gpus/leaked-video-exposes-how-chinese-factories-are-stripping-rtx-5090s-to-fuel-ai-custom-partner-cards-to-nvidia-founders-editions-on-the-chopping-block)
 
 > 💡 按关键词相关度排序
 
 ## 前沿科学雷达
 
-🔬 **[Text-to-Image Generative Modeling Without Language Pretraining](http://arxiv.org/abs/2610.26863v1)**
-  ### Modern text-to-image (T2I) systems use internet-scale language pretraining for text-conditioned image generation. We ask whether language pretraining is necess…
-🔬 **[OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory](http://arxiv.org/abs/2610.26860v1)**
-  ### Multimodal large language models (MLLMs) have made rapid progress on visual reasoning, yet many tasks require evidence that is difficult to obtain through inte…
-🔬 **[Can It Actually Work? Synthesizing Functional CAD Mechanisms](http://arxiv.org/abs/2610.26861v1)**
-  ### While LLM agents can generate visually plausible CAD assemblies, these designs often fail to fulfill their intended physical functions. We study functional CAD…
+🔬 **[The Language of Instruction: Genre and Generative AI](http://arxiv.org/abs/2610.32982v1)**
+  ### This article argues that instruction-fine-tuned language models should be understood as implementing a genre, what is proposed as the instructional-conversatio…
+🔬 **[SceneBloom: Agentic Indoor Environment Generation with Realistic and Diverse Layouts for Embodied Learning](http://arxiv.org/abs/2610.32978v1)**
+  ### Training generalizable embodied agents requires realistic, varied, and simulation-ready indoor environments. Language-guided methods support semantic planning …
+🔬 **[Maximal Orbital Entanglement from Non-Interacting Fermions](http://arxiv.org/abs/2610.32974v1)**
+  ### Orbital rotations are used in quantum many-body physics and chemistry to reduce the complexity of quantum states by compressing their correlation into a small …
 
 > 💡 来源：arXiv 最新提交（类目 cs.AI, cs.CL, cs.LG, quant-ph）；评测基准分数类快讯请看 AI 模型动态一节。
 
 ## 科技招聘前沿
 
-📋 本月“Ask HN: Who is hiring? (October 2026)” 线程 **394** 条岗位评论
-🧩 按方向分布（粗略关键词命中）：product: 168 · design: 81 · infra: 65 · backend: 52 · ml: 41 · research: 37
-🏢 greenhouse **anthropic** 在招 666 岗（上周 666，— 0）
+📋 本月“Ask HN: Who is hiring? (October 2026)” 线程 **395** 条岗位评论（▲ 1）
+🧩 按方向分布（粗略关键词命中）：product: 168 · design: 81 · infra: 65 · backend: 51 · ml: 41 · research: 37
+🏢 greenhouse **anthropic** 在招 682 岗（上周 666，▲ 16）
 🏢 greenhouse **deepmind** 枚举失败
 🏢 greenhouse **mistralai** 枚举失败
 
@@ -181,4 +178,4 @@
 
 ---
 
-**数据源可用率：14/14** · 报告由 joke_trends 自动化流水线每周生成，欢迎 PR 补充情报。
+**数据源可用率：13/14** · 报告由 joke_trends 自动化流水线每周生成，欢迎 PR 补充情报。
