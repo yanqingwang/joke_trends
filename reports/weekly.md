@@ -1,174 +1,175 @@
 # 每周热点趋势 · Joke Trends
 
-**2026 年第 46 周** · 生成于 2026-11-09（UTC）
+**2026 年第 47 周** · 生成于 2026-11-16（UTC）
 > AI / 加密 / 宏观 / 科技招聘 / 前沿研究 的周度观察
 
 ## 📌 一句话速览
 
-- **GitHub Star 火箭榜**：**anthropics/claude-code** — ★ 155.1k 与上周比 ▲ 833
-- **预测市场风向**：Will Kai Cenat finish his GTA marathon by November 10? — **P(Yes) 8%**
-- **AI 模型动态**：🧠 **sentence-transformers/all-MiniLM-L6-v2** — 30 天下载 177.60M ▼ -2.7%
+- **GitHub Star 火箭榜**：**anthropics/claude-code** — ★ 155.8k 与上周比 ▲ 784
+- **预测市场风向**：Will Chiang Wan-an win the next Taipei Mayor election? — **P(Yes) 64%**
+- **AI 模型动态**：🧠 **sentence-transformers/all-MiniLM-L6-v2** — 30 天下载 170.16M ▼ -4.2%
 - **热搜雷达（头条 / 百度 / X / TikTok）**：**🇨🇳 百度热榜：**
-- **加密货币市场情绪**：😱 **恐惧贪婪指数 37（Fear）** ▲ +42% — 7 天走势见下图
-- **黄金 / 美元 / 宏观数据**：🥇 **金 $4,101/oz** ▲ +5.1%
+- **加密货币市场情绪**：😱 **恐惧贪婪指数 29（Fear）** ▼ -9% — 7 天走势见下图
+- **黄金 / 美元 / 宏观数据**：🥇 **金 $3,874/oz** ▼ -5.5%
 
 ---
 
 ## GitHub Star 火箭榜
 
-**anthropics/claude-code** — ★ 155.1k 与上周比 ▲ 833
-**ollama/ollama** — ★ 186.4k 与上周比 ▲ 776
-**vllm-project/vllm** — ★ 96.6k 与上周比 ▲ 470
-**langchain-ai/langchain** — ★ 149.3k 与上周比 ▲ 381
-**crewAIInc/crewAI** — ★ 60.7k 与上周比 ▲ 269
-**microsoft/autogen** — ★ 61.8k 与上周比 ▲ 84
-**browser-use/browser-use** — ★ 120.4k 与上周比 ▲ 588
-**stanfordnlp/dspy** — ★ 39.0k 与上周比 ▲ 98
+**anthropics/claude-code** — ★ 155.8k 与上周比 ▲ 784
+**ollama/ollama** — ★ 187.2k 与上周比 ▲ 752
+**vllm-project/vllm** — ★ 97.0k 与上周比 ▲ 429
+**langchain-ai/langchain** — ★ 149.6k 与上周比 ▲ 367
+**crewAIInc/crewAI** — ★ 61.0k 与上周比 ▲ 300
+**microsoft/autogen** — ★ 61.9k 与上周比 ▲ 111
+**browser-use/browser-use** — ★ 121.2k 与上周比 ▲ 769
+**stanfordnlp/dspy** — ★ 39.1k 与上周比 ▲ 103
 
 **最近 30 天冒头的新 AI 仓库：**
-💎 **Zagitta/gpu-unlock** ★18.3k — Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughp
-💎 **heydamir/unslop** ★12.3k — A Claude skill that turns vibecoded, AI-looking UI into a designed interface
-💎 **wangzan101/Mika** ★7.8k — An on-device AI agent for Android that operates apps and the web to get things done for you.
-💎 **rddmwmddr/android-ad-cleaner** ★7.2k — 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。
-💎 **anhao/ai-pose-gallery-zh** ★6.5k — 中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊
+💎 **Zagitta/gpu-unlock** ★19.9k — Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughp
+💎 **heydamir/unslop** ★17.0k — A Claude skill that turns vibecoded, AI-looking UI into a designed interface
+💎 **JuneYaooo/rea-video** ★9.5k — Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. Breakdowns in the open VI
+💎 **wangzan101/Mika** ★8.8k — An on-device AI agent for Android that operates apps and the web to get things done for you.
+💎 **rddmwmddr/android-ad-cleaner** ★8.2k — 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。
 
 ## 预测市场风向
 
- Will Kai Cenat finish his GTA marathon by November 10? — **P(Yes) 8%**
- Will Bitcoin dip to $55,000 by December 31, 2026? — **P(Yes) 10%**
- Will Bitcoin dip to $72,500 in November? — **P(Yes) 76%**
- Trump out as President before 2027? — **P(Yes) 2%**
-▲ Will Republicans lose the Alaska, Iowa, Kansas, Maine, Michigan, Ohio, and Texas Senate seats? — **P(Yes) 98%**（上周 32%，Δ +212.2pp）
+ Will Chiang Wan-an win the next Taipei Mayor election? — **P(Yes) 64%**
+ Will Puma Shen win the next Taipei Mayor election? — **P(Yes) 36%**
+ Will the price of Bitcoin be above $70,000 on November 16? — **P(Yes) 0%**
+ Will Bitcoin dip to $52,500 in November? — **P(Yes) 10%**
+ Fourth Jensen Huang affair reported by December 31? — **P(Yes) 40%**
 
 > 💡 数据源：polymarket.com Gamma API · 24h 成交量前几名
 
 ## AI 模型动态
 
-🧠 **sentence-transformers/all-MiniLM-L6-v2** — 30 天下载 177.60M ▼ -2.7%
-🧠 **cross-encoder/ms-marco-MiniLM-L6-v2** — 30 天下载 63.13M ▼ -5.6%
-🧠 **argmaxinc/whisperkit-coreml** — 30 天下载 51.55M
-🧠 **BAAI/bge-small-en-v1.5** — 30 天下载 47.59M ▼ -4.5%
-🧠 **Comfy-Org/MiniMax-H3** — 30 天下载 32.23M ▲ +3.6%
+🧠 **sentence-transformers/all-MiniLM-L6-v2** — 30 天下载 170.16M ▼ -4.2%
+🧠 **argmaxinc/whisperkit-coreml** — 30 天下载 74.68M ▲ +44.9%
+🧠 **cross-encoder/ms-marco-MiniLM-L6-v2** — 30 天下载 57.88M ▼ -8.3%
+🧠 **BAAI/bge-small-en-v1.5** — 30 天下载 44.47M ▼ -6.6%
+🧠 **openai-community/gpt2** — 30 天下载 34.19M ▲ +7.6%
 
 > 💡 排名按 30 天下载量（HF 官方榜）；需要 LMArena 级综合评测分数时，可配 AA_API_KEY 环境变量获取 Artificial Analysis 数据。
 
 ## 热搜雷达（头条 / 百度 / X / TikTok）
 
 **🇨🇳 百度热榜：**
-· 骑手遇害案开庭 嫌疑人多次干扰庭审 <https://m.baidu.com/s?word=%E9%AA%91%E6%89%8B%E9%81%87%E5%AE%B3%E6%A1%88%E5%BC%80%E5%BA%AD+%E5%AB%8C%E7%96%91%E4%BA%BA%E5%A4%9A%E6…
-· 嗓子刚疼就猛吃药 能把感冒压住吗 <https://m.baidu.com/s?word=%E5%97%93%E5%AD%90%E5%88%9A%E7%96%BC%E5%B0%B1%E7%8C%9B%E5%90%83%E8%8D%AF+%E8%83%BD%E6%8A%8A%E6%84%9F%E5%…
-· 晒了张截图 11999元手机差点没了 <https://m.baidu.com/s?word=%E6%99%92%E4%BA%86%E5%BC%A0%E6%88%AA%E5%9B%BE+11999%E5%85%83%E6%89%8B%E6%9C%BA%E5%B7%AE%E7%82%B9%E6%B2…
-· 易中天 全球征集对联下联 <https://m.baidu.com/s?word=%E6%98%93%E4%B8%AD%E5%A4%A9+%E5%85%A8%E7%90%83%E5%BE%81%E9%9B%86%E5%AF%B9%E8%81%94%E4%B8%8B%E8%81%94&sa=fyb\_…
-· “厉娜”怎么变成了全网的句号 <https://m.baidu.com/s?word=%E2%80%9C%E5%8E%89%E5%A8%9C%E2%80%9D%E6%80%8E%E4%B9%88%E5%8F%98%E6%88%90%E4%BA%86%E5%85%A8%E7%BD%91%E7%9A%…
+· 闲鱼通报“钓鱼竿涉色情交易”等谣言 <https://m.baidu.com/s?word=%E9%97%B2%E9%B1%BC%E9%80%9A%E6%8A%A5%E2%80%9C%E9%92%93%E9%B1%BC%E7%AB%BF%E6%B6%89%E8%89%B2%E6%83%85%E4%…
+· 《哈利波特：魔法觉醒》将停服 <https://m.baidu.com/s?word=%E3%80%8A%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%EF%BC%9A%E9%AD%94%E6%B3%95%E8%A7%89%E9%86%92%E3%80%8B%E5%B0%…
+· 农民工转讨薪贴被当黑社会遭起诉 <https://m.baidu.com/s?word=%E5%86%9C%E6%B0%91%E5%B7%A5%E8%BD%AC%E8%AE%A8%E8%96%AA%E8%B4%B4%E8%A2%AB%E5%BD%93%E9%BB%91%E7%A4%BE%E4%BC…
+· 金子涵称被家人骗到了精神病院 <https://m.baidu.com/s?word=%E9%87%91%E5%AD%90%E6%B6%B5%E7%A7%B0%E8%A2%AB%E5%AE%B6%E4%BA%BA%E9%AA%97%E5%88%B0%E4%BA%86%E7%B2%BE%E7%A5%…
+· 游客钓到1.88米巨型海鳗 <https://m.baidu.com/s?word=%E6%B8%B8%E5%AE%A2%E9%92%93%E5%88%B01.88%E7%B1%B3%E5%B7%A8%E5%9E%8B%E6%B5%B7%E9%B3%97&sa=fyb\_news>
 **🌍 X/Twitter 热点：**
-· #初星メイド
-· #学マス
-· #キミの推しポケムービー
-· #精神年齢診断
-· 私の精神年齢
+· #CDTVライブライブ
+· EBiDANフェス
+· #MEGAぶちかませワンエン
+· #ネプリーグ
+· #まほやく旅友診断
 **🇺🇸 美国搜索热点（Google Trends，可窥 TikTok/Reddit 舆情）：**
-· growth stock
-· steelers depot
-· irán
-· gta release date
-· who is elizabeth holmes
+· mike tomlin coaching rumors
+· elizabeth warren
+· bitcoin price usd
+· pittsburgh steelers 2027 draft quarterback strategy
+· nigeria
 
 > 💡 本节来源：百度 · X · GoogleTrends-US
 
 ## 加密货币市场情绪
 
-<div style="max-width:640px;margin:6px 0"><svg xmlns="http://www.w3.org/2000/svg" width="240" height="44" role="img"><polyline points="0.0,34.6 34.3,35.9 68.6,40.0 102.9,35.9 137.1,6.0 171.4,27.8 205.7,38.6 240.0,23.7" fill="none" stroke="#22a06b" stroke-width="2"/></svg></div>
+<div style="max-width:640px;margin:6px 0"><svg xmlns="http://www.w3.org/2000/svg" width="240" height="44" role="img"><polyline points="0.0,40.0 34.3,40.0 68.6,35.4 102.9,24.5 137.1,12.2 171.4,10.6 205.7,6.0 240.0,10.6" fill="none" stroke="#22a06b" stroke-width="2"/></svg></div>
 
-😱 **恐惧贪婪指数 37（Fear）** ▲ +42% — 7 天走势见下图
-🪙 **BTC $74.1k**，7 天 -5.0%
-🪙 **ETH $2.1k**，7 天 -7.9%
+😱 **恐惧贪婪指数 29（Fear）** ▼ -9% — 7 天走势见下图
+🪙 **BTC $64.4k**，7 天 -13.7%
+🪙 **ETH $1.8k**，7 天 -15.3%
 **爆仓 / 暴跌相关头条：**
-· [A Top Silicon Valley Investor Predicts a Bitcoin Crash to $57,000 Within the Next 12 Months. Here's Why He's Wrong. - Yahoo Finance](https://news.google.com/rss/articles/CBMiowFBVV95cUxObk15NzBWNnFaRWxWanU2NDk2VXMwR1NMLXIzamp3OWpzZ1YtMHduZm53Q0JiMEZndWpGcUtUV09GNGgyUWtwaUIzeFRkSGdfeTJtU25Ja0FOM3VHb1hscXlzNU1YTk9rSUpsLXJNUWliZkVuWlFDdmZPOFdJSGJRejBkSUpPWDBOOEI4TFR3bDF6TTdReTMxTFN6bjhGMUt2eW5N?oc=5)
-· [Crypto Crash: Why Bitcoin, ETH, XRP and SOL Fell - CryptoTicker.io](https://news.google.com/rss/articles/CBMiigFBVV95cUxNXzhkNXo5a1BodzRiTC1lU19ZdThoTWlBa3dvalhTaU53d0twS1BhWEtGSlNCNzlocEg4cEdXcktZaWxYU0laZFNsU0pFLVMwN3hwbDczdXI3VnIwR3I0ajR2dkhnSnctQkN2VnZ4cUIyOS1EbWZTZEd3RGs4TXF2UXlGU0JTaklrMmc?oc=5)
-· [XRP Price Under Pressure as Crypto Crash Deepens: Is $0.99 Next? - Coinpedia](https://news.google.com/rss/articles/CBMioAFBVV95cUxQYTBjMDROLU5pTmQyS1oxTnlIcWUtbnFRTVVXTURncjkwOHR6d1I0Y1BhTTdrYXpLM0tuS1Nod1ctdnoyallZb3N2QWVtZ01LdjRXVTgxZWE3NHc5ZHprYUlYdVRvMkk5cmxWYldma2VDS040dDU5NU5JQUpiRE9ZSGpMV0NGcWg2dVRSSEo1VHlraGpvYy02NEZFUV9zdDJJ0gGmAUFVX3lxTE04a193LS1hdk5JLUNVaXZSU2VsWWFiXzZqOUlCYjhKY2dHeHlmNy1ncFl6WmdyLXVSbUJZVy1FTE42cEZ4YW00SnBXdXV4cnBoUUdQNXZ3SVdiYlY0dGgtNXp0N3pCSlNhQk04aU5BNWV6bk9Kd1dHNFE5amRxSDVGaEp6Q2hlN3lPSUNOUWkxUk5PUDRfRkF6VWdFQWtUM2RZUFIyaVE?oc=5)
+· [Did Binance Make Bitcoin’s Crash Worse? OKX CEO Revives Feud With CZ Over October Selloffs - Yahoo Finance](https://news.google.com/rss/articles/CBMinAFBVV95cUxPdHRyVUJqQml4N2dGbV9QTHRuTmhzNXlWc2FiRURMQjNScUYtMGJqOHNKU1Q5ckRvcUVubkRQZW5ZYU9rbkVhVkpUSXV2NF9ETERwSEZkc29aSjlNZWhGWjRySHJFR2dSR2d1YnI0Y3B5a2UwOWpydXl4dDF1T0tGZWwzM0I2ckVkU2lmc2s5bXY5QURCU2loV3Y2YnY?oc=5)
+· [‘Don't Wait’—Bitcoin Suddenly In Free Fall As Price ‘Collapse’ Fears Trigger Surprise $2 Trillion Crypto Crash - Forbes](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPY01Zd3JwVWFzTjBReVVyWEdXT2VDdWJ2cUFwb1ptTTduOXdRbmp2Mjd5eU9fU21kcThub2NDZ2pqNTBOM1VPTTVRY3lqc2NfTFBjS0llSjBrZEpuQVhBa1RiWkV5NnZyX0NuMTZqamhXMkVfVlZJOWttV0dlbVhLYnFtZnAtLTZUNzJnM2ZnRXZvdjI0ejg5cmZ6QUI5QTM4UERnODIzVkZtTTUtbjlJczE0TkRtSGUydUlZc0ZaV3c?oc=5)
+· [Bitcoin price prediction this week: Will BTC crash to $60K or reclaim $70K? - Crypto News](https://news.google.com/rss/articles/CBMibkFVX3lxTE1zaUdMSUIzM2F5ZlhoeTlHSGcyQ3QwcmR2bjlNQ1VtTnZqN3NzWFp5OVFCNC0yY3Z1S3RFUXZxcXR2aV9ZejRSMDYwb3RXTlY4X3U3M0xPNkZuT3ZQTXRMTmdLTnFIbXV2Y2lzTFpB?oc=5)
 
 > 💡 来源：alternative.me 恐惧贪婪指数 · CoinGecko · 公开新闻 RSS（爆仓精确金额建议参考 coinglass.com 手动补充）
 
 ## 黄金 / 美元 / 宏观数据
 
-🥇 **金 $4,101/oz** ▲ +5.1%
-💱 USD/CNY **6.6713**
-💱 USD/JPY **158.33**
+🥇 **金 $3,874/oz** ▼ -5.5%
+💱 USD/CNY **6.6719**
+💱 USD/JPY **160.00**
 
 > 💡 来源：gold-api.com · Yahoo Finance · 欧央行参考汇率（ECB）。DXY 为 ICE 指数走势，个别资产可能临时缺数。
 
 ## 全球贸易风向
 
-💱 **EUR/USD** 1.1165
-💱 **USD/CNY** 6.67 （上周 6.65）
-💱 **USD/JPY** 158.33 （上周 157.25）
-💱 **USD/HKD** 7.84 （上周 7.85）
+💱 **EUR/USD** 1.1052
+💱 **USD/CNY** 6.67 （上周 6.67）
+💱 **USD/JPY** 160.00 （上周 158.33）
+💱 **USD/HKD** 7.85 （上周 7.84）
 **贸易 / 关税要闻：**
-· [China Extends Suspension of 24% Tariff on US Imports and Port Fees for Two Months - Global Trade Magazine](https://news.google.com/rss/articles/CBMisgFBVV95cUxPVVBJczFuRTN5TnBMN3JDN1FqZ1ZuTHo0OUVyN2ZidlczZHB0WkpLOE5pdnZpekxPYVVld2FqWnNSdVYwc2g4TWxLeHRJR1BKZlVJT2NzVmZqMklaR3llZ0p2V2U4QTJqQWZYTmVwT2N2N3VyMUlRZGl6aEg1QUxYWEQ2N05NX3c4N3hCRHBaZEMya2JJYTFoUGdvN0I2MlItWkYzMFZJX0NDWHRaQ1ZqMEd3?oc=5)
-· [Black Sea drone strikes put key global trade route at risk - DW.com](https://news.google.com/rss/articles/CBMimwFBVV95cUxOaXAwajBkVkNGcjRjdVN6U1VFa0JPRTNGWUVicTY5M1hOUmlyaW9vYzU3V2VnQ1g4eTlRTzdIaFlRa05vRUd6akhvY3ZXYndiYWJhMHdkYTlKcHZlSzQ0T1BnVlA0a2JGcnNHRVNSVFNBeEhWcFRGN2djZVZIcFExSzJEbm55NEpPeDBuRnF4UmhTWll3blk0Z2IzOA?oc=5)
-· [Gas supply reliability and regional trade will shape West Africa’s energy growth - S&P Global](https://news.google.com/rss/articles/CBMipwJBVV95cUxOMWFPcVRDUVV3a05hRVZ5LUROZ1gtVi1Saks4RmN5VXhxeTI3emJ4RjNaYUN5NTJnUEhKQ1RJRm83MW9QTWZTaU92VEwzb1FFUF96VXk0aThkcG9mbHJGNVhxVUlxcFY1eG9xa195V0thMzQ1X2VNYzg2d3JubHhrSEZTcm5Ec1F3ZjJ6YWQ3N1JJelZsNkM0WmJvdjhkN2hhWmM1U1U1Rk1BbXpwRlFkdS1FRkx2UkpHSWttc0Vpc0p2RW95WW9SSVM2UUlqUHpDMi1vQXlXTGt1ZFJ6aGtpWktiQktuVmJ2ZUI4TGFqelg4S3RCX3ZhcEViaGxWMk0tRU12NzlXeHZ5eWVHVEsxbW1ZUXNHUVdoR0hZNTdRampzcWF3MllJ?oc=5)
-· [Until sentiment in the AI trade improves, Citi tells investors it’s better to sit out the global tech trade - MarketWatch](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTWQxQ0hiRnZGbmxOQW45WnB1b1lmME5aeWh2OFRuY1p4TFJQTlRxMEJWT0ZieHg4YzJFaWlJVGl6UXc0LUxodzlyNWQ1UTl0bnFic0I5Q1I4eF9VMHRSSWxOb1liZ0RscmF5TzNiTmFLS3ctMUl3MERNdmFXUlBCZHNZUUN4U1dIVUF4eEtkSlFyV3UwbTd4d1ViQWxTbkNxRlJWbE9yX2NsNnVaNm81SExSeGJuVmFqVk1CVHBIZzV3TUJwbjQ1Y0N2XzROY2xHYUhueWxCVXFDNnZVN2dhU2ZB?oc=5)
+· [The Achilles’ heel of global trade: Building resilience where it matters most - McKinsey & Company](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOd1R0V0JseDdlQ0twUGFzSHdmcmJDSlFvUFRfcGFXVnQ2MWdWTGRWQnJGNXl2Sng3ZDhVU3Y1NjNwM0FNV0VzOHNKSkhudFZrVkpFdEVZVE4zSjNuTjVDTl93TFlKUHVoa2NnTk5MM05rdno1U2U2dnMxd0VFTmY1amZFUFpNbjdkQU5CZFVucEFBNFpuNFVoQzh0ZmdicXVfZXpYd3llbER4Y0o0d0Fjc0k0WTBQRWZI?oc=5)
+· [Investment reform and resilient supply chains in Egypt - World Economic Forum](https://news.google.com/rss/articles/CBMiogFBVV95cUxNYzU1Sl9WSHNMdlNtdjZZSC02a2FGYjRIam5CUHNfQ204azJJdEg5b29ha0M3N0FWQVNDaExCa2Zta29BM01wSFNCS2FORXBwYzJFay1VcGN0OUpsOEY2dk9NcTlseG9MbXNQTHdfSFR6VV9SWjNTNG1kbGdYbGFCZW1XR2tBaEZnYzFIY05HLVlZbjFSUlJXRkliU1d0ZW5UbUE?oc=5)
+· [Messe Frankfurt VP: World Trade Moves from “New Normal” to “Never Normal” - Global Trade Magazine](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNVXRlQ1FtQmhNTllpVk45N2U0b29LalRZek9id0FRYkg3TkQ4Y3Q1Q0diNWxvdm9yaFhWakZOa3drYTB6Sm80Y2xFYnpRVGM0OHh2Q3RVYzJTRHdVTFRSYzVENDZRX2dJMl85SzFrLTJ2Vm1EbUpJODZ6YWt4c2VYVlN2dmJwSGRDZlVPRlhONnlkOG0xVjVkOVo4T3AtUGRhcThuRVlVcm5FazZyWXEzTVI1bGlSbUcta0hCaFJwOVY1NThDYVF3a0oyUVhZWkh2LVBSWGxWcWRCX1BGQXZidFh0UDh0ZWhsVHlmbXZn?oc=5)
+· [Why global trade growth is exceeding forecasts despite Hormuz disruption - South China Morning Post](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOV0lLVERYMUduM2dDa3pTRVJsa1N4RXdHckViekxWNUZyMVFHM1lzYlN1dmJkZm9BdWtUaUdXeU9Nb3M4VGFSaU1LNlhHWlRsOHdENEQxM09QYUd2VWtFZUxxOUVCdkE2cnV1WmU3Z0FkcUFrWFFrXzZ0cXJsQzZ4cFY4ZjZ5UTRJeDk1em9md0FPNTJkQnZxODJibHdWQWVWaU01c2dqTWlNbV9UY1h2ZjhSbVpzaEM2TGh3dHE0N1F3dnE3TFBxZmRDeXllaS1kNllRTUVObw?oc=5)
 
 > 💡 汇率反映贸易货币篮子对比欧元的走势；新闻来自公开 RSS。航运/集装箱指数暂无免 key API，欢迎手动补充。
 
 ## SaaS 签单与交易
 
-· [OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation](https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/)
+· [Helsing backer Plural raises $1.1B to fund Europe’s next moonshots](https://techcrunch.com/2026/11/15/helsing-backer-plural-raises-1-1b-to-fund-europes-next-moonshots/)
+· [Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say](https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/)
 
 > 💡 按关键词相关度排序
 
 ## AI 创业公司融资
 
-· [OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation](https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/)
-· [The Week’s 10 Biggest Funding Rounds: AI, Defense And Space Tech Lead For Large Rounds](https://news.crunchbase.com/venture/biggest-startup-rounds-ai-defense-space-tech-shield-zipline/)
-· [China’s Largest Startup Deal Ever Lifts Global Venture Funding To $59B In October](https://news.crunchbase.com/venture/october-2026-global-startup-funding-strong-china-deepseek/)
-· [Physicl raises $10M to make the digital world real enough for robots](https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/)
+· [The Week’s 10 Biggest Funding Rounds: Agentic AI And Infrastructure Are Still On A Roll](https://news.crunchbase.com/venture/biggest-startup-funding-rounds-agentic-ai-infrastructure-mirendil-mercor/)
+· [Exclusive: Nubank Alum Raises $14M For Colombia’s Palomma To Tackle Rent Payments, Landlord Financing](https://news.crunchbase.com/fintech/nubank-alum-colombia-startup-palomma-ai-rental-services/)
+· [Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say](https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/)
+· [Crunchbase Data: Nvidia’s Startup Funding Deals Hit A Record. What’s Next After Huang?](https://news.crunchbase.com/venture/huang-nvda-ai-startup-funding-record-2026/)
 
 > 💡 按关键词相关度排序
 
 ## AI 商业落地案例
 
-· [Arcjet AI security models](https://www.producthunt.com/products/arcjet)
-· [AXL](https://www.producthunt.com/products/axl-2)
-· [Terse - Durable Actors](https://www.producthunt.com/products/terse-durable-actors)
-· [Pawse.ai](https://www.producthunt.com/products/pawse-ai)
+· [Nexus](https://www.producthunt.com/products/nexus-11)
+· [AgentWatch](https://www.producthunt.com/products/agentwatch-ai-traffic-tracker)
+· [StateWeave](https://www.producthunt.com/products/stateweave)
+· [OpenFrame](https://www.producthunt.com/products/openframe-3)
 
 > 💡 按关键词相关度排序
 
 ## Linux / 开源动态
 
-· [Security updates for Thursday](https://lwn.net/Articles/1105639/)
-· [\[$\] LWN.net Weekly Edition for November 5, 2026](https://lwn.net/Articles/1103480/)
-· [Arch Linux vs. CachyOS vs. Omarchy 4.5 Performance Benchmarks](https://www.phoronix.com/review/cachyos-omarchy-benchmarks)
-· [FEX Awaits The Linux Kernel To Align With Windows & macOS On ARM Register Usage](https://www.phoronix.com/news/FEX-2611-Released)
+· [AMD Posts Linux Patches For Capacity Aware Scheduling On Hybrid CPUs](https://www.phoronix.com/news/AMD-Hybrid-Capacity-Aware-Sched)
+· [NVIDIA Highlights Their Open-Source vGPU Upstreaming Work Built Atop Nova](https://www.phoronix.com/news/NVIDIA-Upstream-vGPU-Nova)
+· [OpenAI Codex Helps Uncover & Fix A Nearly 20 Year Old Radeon Linux Driver Bug](https://www.phoronix.com/news/Codex-R600-UVD-FIx-Linux-7.5)
+· [Security updates for Wednesday](https://lwn.net/Articles/1106876/)
 
 > 💡 按关键词相关度排序
 
 ## 电脑硬件 / 内存行情
 
-· [PC's with 64GB of RAM plummet 18% as memory prices soar](https://www.tomshardware.com/pc-components/ram/pcs-with-64gb-of-ram-plummet-18-percent-as-memory-prices-soar-cpu-z-install-base-data-shows-ddr4-making-a-surprise-comeback)
-· [This RTX 5060 gaming PC costs less than the Steam Machine](https://www.tomshardware.com/pc-components/this-rtx-5060-gaming-pc-costs-less-than-the-steam-machine-grab-the-ibuypower-slate-prebuilt-pc-with-massive-usd500-discount)
-· [Homelabber uses second-gen Optane memory sticks to run a 2.8-trillion-parameter AI model on CPU alone](https://www.tomshardware.com/tech-industry/artificial-intelligence/homelabber-uses-second-gen-optane-memory-sticks-to-run-a-2-8-trillion-parameter-ai-model-on-cpu-alone-warns-that-optanes-extreme-heat-can-burn-out-nearby-memory-dram-used-blower-fans-to-prevent-melting-ram)
-· [TSMC denies exploring 3D DRAM at Nvidia's request](https://www.tomshardware.com/pc-components/dram/tsmc-denies-exploring-3d-dram-at-nvidias-request-advanced-memory-tech-is-still-years-from-market-viability)
+· [AMD's fastest gaming CPU and the Radeon RX 9070 just hit a massive $550 discount](https://www.tomshardware.com/desktops/gaming-pcs/amds-fastest-gaming-cpu-and-the-radeon-rx-9070-just-hit-a-massive-usd550-discount-32gb-ddr5-ram-and-1tb-ssd-round-off-usd1-749-99-gaming-rig)
+· [Judge denies motion to dismiss DRAM price-fixing lawsuit against Micron, Samsung, and SK hynix, finds evidence of DRAM …](https://www.tomshardware.com/tech-industry/big-tech/judge-denies-motion-to-dismiss-dram-price-fixing-lawsuit-against-micron-samsung-and-sk-hynix-says-chipmakers-acted-like-hawks-flying-in-formation-finds-evidence-of-dram-collusion-plausible-after-500-percent-price-surge)
+· [357 detailed CPU die shots spanning 1971 to 2024 crammed into a new gallery](https://www.tomshardware.com/pc-components/cpus/357-detailed-cpu-die-shots-spanning-1971-to-2024-crammed-into-a-new-gallery-motorola-68000-intel-486dx2-amd-athlon-xp-apple-m1-and-many-more-in-beautiful-detail)
+· [The original Xbox was released 25 years ago today](https://www.tomshardware.com/video-games/xbox/the-original-xbox-was-released-25-years-ago-today-microsofts-pentium-iii-and-nvidia-gpu-powered-console-did-surprisingly-well-in-a-ps2-dominated-era)
 
 > 💡 按关键词相关度排序
 
 ## 前沿科学雷达
 
-🔬 **[On Agentic Manipulation Policies](http://arxiv.org/abs/2611.09892v1)**
-  ### Recent work on robot manipulation has focused on specialist policies trained on demonstrations. We show that generalist AI models can control manipulators more…
-🔬 **[CPU-ARC: Agentic Reasoning Caching for on-CPU Reasoning Reuse](http://arxiv.org/abs/2611.09891v1)**
-  ### Large language models reinvent the wheel all the time. They conflate task-solving with the execution of the solutions, which forces them to solve every problem…
-🔬 **[On the (non-)closedness of the set of ReLU networks](http://arxiv.org/abs/2611.09887v1)**
-  ### We prove that the set $\mathcal{N}_N$ of ReLU networks with one hidden layer and at most $N\in\mathbb N$ neurons is weakly closed in $W^{1,p}(Ω)$, for a bounde…
+🔬 **[Pairing AIS with RF: Analysis of a Markovian Approach for Maritime Data Fusion](http://arxiv.org/abs/2611.18563v1)**
+  ### Monitoring maritime activities is important for safety and security, particularly for detecting illegal activities, but remains challenging due to the size and…
+🔬 **[FETTUCCINE: Fast and efficient brain-to-text decoding on mobile devices](http://arxiv.org/abs/2611.18561v1)**
+  ### Recent advances in speech neuroprostheses have enabled new communication avenues for people who have lost the ability to speak due to neurological illness or i…
+🔬 **[Training Reasoning Models in Simulation to Natively Use Real Robots](http://arxiv.org/abs/2611.18562v1)**
+  ### Robot-use agents (RUAs) have emerged as a promising approach to general-purpose robot control. However, strong performance has so far been achieved only by fro…
 
 > 💡 来源：arXiv 最新提交（类目 cs.AI, cs.CL, cs.LG, quant-ph）；评测基准分数类快讯请看 AI 模型动态一节。
 
 ## 科技招聘前沿
 
-📋 本月“Ask HN: Who is hiring? (November 2026)” 线程 **310** 条岗位评论（▼ 81）
-🧩 按方向分布（粗略关键词命中）：product: 117 · infra: 54 · design: 51 · backend: 44 · ml: 30 · research: 27
-🏢 greenhouse **anthropic** 在招 677 岗（上周 678，▼ 1）
+📋 本月“Ask HN: Who is hiring? (November 2026)” 线程 **372** 条岗位评论（▲ 62）
+🧩 按方向分布（粗略关键词命中）：product: 138 · infra: 64 · backend: 55 · design: 55 · ml: 34 · research: 33
+🏢 greenhouse **anthropic** 在招 661 岗（上周 677，▼ 16）
 🏢 greenhouse **deepmind** 枚举失败
 🏢 greenhouse **mistralai** 枚举失败
 
