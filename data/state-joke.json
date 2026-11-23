@@ -1,121 +1,112 @@
 {
-  "generated_at": "2026-11-16T10:56:10.629649+00:00",
+  "generated_at": "2026-11-23T12:10:38.592399+00:00",
   "sources": {
     "github_stars": {
-      "stars": {
-        "anthropics/claude-code": 155848,
-        "ollama/ollama": 187181,
-        "vllm-project/vllm": 97020,
-        "langchain-ai/langchain": 149623,
-        "crewAIInc/crewAI": 60983,
-        "microsoft/autogen": 61869,
-        "browser-use/browser-use": 121169,
-        "stanfordnlp/dspy": 39086
-      }
+      "stars": {}
     },
     "predictions": {
       "quotes": {
-        "Will Kristi Noem win the 2028 Republican presidential nomination?": 0.0015,
-        "Will there be no new be CEO of NVIDIA by December 31, 2028?": 0.1685,
-        "Will Jensen Huang rejoin NVIDIA by December 31, 2026?": 0.1245,
-        "Will Jensen Huang rejoin NVIDIA by November 30, 2026?": 0.0535,
+        "Will there be no new be CEO of NVIDIA by December 31, 2028?": 0.182,
+        "Will Jensen Huang rejoin NVIDIA by November 30, 2026?": 0.0185,
+        "Will Jensen Huang rejoin NVIDIA by December 31, 2026?": 0.1085,
+        "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?": 0.925,
         "Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?": 0.0015,
-        "Dota 2: Froglings vs DO KONCA - Game 1 Winner": 0.625,
-        "Will Jamie Dimon win the 2028 US Presidential Election?": 0.0025,
-        "Israel x Iran ceasefire continues through November 15?": 0.9975,
-        "Helsinki: Kimmer Coppejans vs Carlo Alberto Caniato": 0.965,
-        "Will Jesus Christ return before 2027?": 0.0085,
-        "Will Chiang Wan-an win the next Taipei Mayor election?": 0.645,
-        "ATP World Tour Finals, Ivan Lendl Group: Carlos Alcaraz vs Frances Tiafoe": 0.885,
-        "Pepperdine Waves vs. Oregon Ducks": 0.4555,
-        "Will Ulf Kristersson be the next Prime Minister of Sweden?": 0.3015,
-        "Will Rob Sand win the 2028 Democratic presidential nomination?": 0.001,
-        "Will Magdalena Andersson be the next Prime Minister of Sweden?": 0.685,
-        "Will Anthropic's market cap be less than $1.25T at market close on IPO day?": 0.2425,
-        "Israel x Iran ceasefire continues through November 18?": 0.982,
-        "US announces end of Iranian blockade by November 30, 2026?": 0.055,
-        "Will Greece vs. Serbia end in a draw?": 0.195,
-        "US x Iran Effective Ceasefire by November 8?": 0.395,
-        "Israel x Iran ceasefire continues through November 22?": 0.935,
-        "Will Serbia win on 2026-11-16?": 0.135,
-        "Will Puma Shen win the next Taipei Mayor election?": 0.3595,
-        "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?": 0.875,
-        "Will the price of Bitcoin be above $70,000 on November 16?": 0.0005,
-        "Counter-Strike: magic vs Eternal Fire (BO3) - PGL Cluj-Napoca: Closed Qualifier Playoffs": 0.505,
-        "Will Bitcoin dip to $52,500 in November?": 0.105,
-        "Spread: Oregon Ducks (-15.5)": 0.465,
-        "Will the U.S. invade Iran before 2027?": 0.075,
-        "Will there be no change in Fed interest rates after the December 2026 meeting?": 0.031,
-        "Will Jensen Huang rejoin NVIDIA by December 31, 2027?": 0.395,
-        "Magic vs. Celtics": 0.245,
-        "Will Kamala Harris win the 2028 Democratic presidential nomination?": 0.0515,
-        "Fourth Jensen Huang affair reported by December 31?": 0.405,
-        "Jensen Huang divorce by December 31, 2026?": 0.105,
-        "Will Ian Buck be the next CEO of NVIDIA?": 0.165,
-        "Will Cory Booker win the 2028 US Presidential Election?": 0.0025,
-        "Will Mary Peltola win the Alaska Senate race in 2026?": 0.9985,
-        "Warriors vs. Pelicans": 0.595,
-        "Will there be no change in Fed interest rates after the January 2027 meeting?": 0.375,
-        "Will Luka Mesec win the 2026 Ljubljana mayoral election?": 0.225,
-        "Howard Lutnick out as Secretary of Commerce by December 31?": 0.31,
-        "Will WTI Crude Oil (WTI) hit (HIGH) $140 in November?": 0.012,
-        "Will the Cleveland Browns win the 2027 NFL league championship?": 0.0055,
-        "Spread: Oregon Ducks (-16.5)": 0.475,
-        "FAA outage attributed to hack?": 0.0345,
-        "Will Liverpool win the 2026-27 UEFA Champions League Championship?": 0.0345,
-        "Will Zoran Janković win the 2026 Ljubljana mayoral election?": 0.77,
-        "Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting?": 0.0025
+        "Israel x Iran ceasefire continues through November 22?": 0.9975,
+        "Counter-Strike: Phantom vs Betclic Apogee Esports (BO3) - NODWIN Clutch Series Playoffs": 0.0005,
+        "Will Nikki Haley win the 2028 Republican presidential nomination?": 0.0075,
+        "Will there be no change in Fed interest rates after the December 2026 meeting?": 0.0565,
+        "Will the U.S. invade Iran before 2027?": 0.055,
+        "Will the Fed increase interest rates by 50+ bps after the December 2026 meeting?": 0.0135,
+        "Spread: Bengals (-6.5)": 0.475,
+        "Will Gadi Eizenkot be the next Prime Minister of Israel?": 0.6115,
+        "Bengals vs. Commanders": 0.725,
+        "Ankara: Denis Klok vs Oliver Okonkwo": 0.0005,
+        "Will the Fed decrease interest rates by 25 bps after the December 2026 meeting?": 0.0055,
+        "Will Benjamin Netanyahu be the next Prime Minister of Israel?": 0.2745,
+        "Israel x Iran ceasefire continues through November 30?": 0.925,
+        "Ankara: Joshua Sheehy vs Melih Anavatan": 0.9995,
+        "Will Ethereum reach $2,600 in November?": 0.015,
+        "Thunder vs. Pacers": 0.635,
+        "Will \"Mo Bamba\" by Sheck Wes be on the radio in GTA VI at launch?": 0.9995,
+        "Will Ethereum reach $2,500 in November?": 0.0175,
+        "Will Rene Haas be the next CEO of NVIDIA?": 0.044,
+        "Trail Blazers vs. 76ers": 0.405,
+        "Will David Lisnard win the 2027 French presidential election?": 0.2165,
+        "Will Ethereum reach $2,400 in November?": 0.0265,
+        "Will Puma Shen win the next Taipei Mayor election?": 0.2975,
+        "Will AI solve the Riemann Hypothesis in 2026?": 0.705,
+        "Will Rams Başakşehir FK win on 2026-11-23?": 0.495,
+        "Will the US confirm that aliens exist before 2027?": 0.0155,
+        "Will Chiang Wan-an win the next Taipei Mayor election?": 0.705,
+        "Will Bitcoin dip to $45,000 by December 31, 2026?": 0.1315,
+        "Will the price of Bitcoin be above $58,000 on November 23?": 0.985,
+        "Counter-Strike: Phantom vs Betclic Apogee Esports - Map 2 Winner": 0.9995,
+        "Will the Iranian regime fall before 2027?": 0.0245,
+        "Israel x Iran ceasefire continues through December 31?": 0.695,
+        "Will Ethereum reach $2,300 in November?": 0.027,
+        "Will Bitcoin dip to $50,000 by December 31, 2026?": 0.2495,
+        "Israel x Iran ceasefire continues through December 15?": 0.79,
+        "Will Elon Musk post 65-89 tweets from November 21 to November 23, 2026?": 0.248,
+        "Will Bitcoin reach $75,000 in November?": 0.0405,
+        "Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting?": 0.0025,
+        "Will the Fed increase interest rates by 25 bps after the January 2027 meeting?": 0.535,
+        "Will François Hollande win the 2027 French presidential election?": 0.0425,
+        "Will Abdul El-Sayed win the 2028 Democratic presidential nomination?": 0.0085,
+        "Will Teddy Riner win the 2027 French presidential election?": 0.004,
+        "Counter-Strike: FaZe vs Wildcard (BO1) - PGL Major Singapore Stage 1": 0.685,
+        "Will the price of Ethereum be above $1,700 on November 23?": 0.79,
+        "Exact Score: Any Other Score?": 0.25
       }
     },
     "ai_models": {
       "downloads": {
-        "sentence-transformers/all-MiniLM-L6-v2": 170160953,
-        "argmaxinc/whisperkit-coreml": 74682389,
-        "cross-encoder/ms-marco-MiniLM-L6-v2": 57878163,
-        "BAAI/bge-small-en-v1.5": 44467542,
-        "openai-community/gpt2": 34186762,
-        "Comfy-Org/MiniMax-H3": 33282001,
-        "autogluon/chronos-2": 33281827,
-        "google-bert/bert-base-uncased": 32211694
+        "sentence-transformers/all-MiniLM-L6-v2": 164731740,
+        "argmaxinc/whisperkit-coreml": 98106994,
+        "cross-encoder/ms-marco-MiniLM-L6-v2": 54750400,
+        "autogluon/chronos-2": 45374973,
+        "BAAI/bge-small-en-v1.5": 42863227,
+        "BAAI/bge-m3": 34423104,
+        "openai-community/gpt2": 33436225,
+        "Comfy-Org/MiniMax-H3": 33056292
       }
     },
     "crypto": {
-      "fng": 29,
-      "p_bitcoin": 64449,
-      "p_ethereum": 1805.51
+      "fng": 10,
+      "p_bitcoin": 61324,
+      "p_ethereum": 1722.0
     },
     "macro": {
-      "gold": 3873.649902,
+      "gold": 3620.25,
       "fx": {
-        "EUR/USD": 1.1052,
-        "USD/CNY": 6.671914585595368,
-        "USD/JPY": 159.99819037278323
+        "EUR/USD": 1.099,
+        "USD/CNY": 6.677707006369427,
+        "USD/JPY": 158.6442220200182
       }
     },
     "trade": {
       "fx": {
-        "USD/CNY": 6.671914585595368,
-        "USD/JPY": 159.99819037278323,
-        "USD/HKD": 7.846000723850887,
-        "EUR/USD": 1.1052
+        "USD/CNY": 6.677707006369427,
+        "USD/JPY": 158.6442220200182,
+        "USD/HKD": 7.8389444949954505,
+        "EUR/USD": 1.099
       }
     },
     "hiring": {
-      "thread_jobs": 372,
+      "thread_jobs": 379,
       "fn_counts": {
         "machine learning": 14,
-        "ml": 34,
+        "ml": 33,
         "research": 33,
-        "frontend": 20,
-        "backend": 55,
-        "infra": 64,
-        "design": 55,
-        "product": 138,
-        "sales": 25,
+        "frontend": 19,
+        "backend": 54,
+        "infra": 65,
+        "design": 54,
+        "product": 134,
+        "sales": 24,
         "legal": 7
       },
       "boards": {
-        "gh:anthropic": 661
+        "gh:anthropic": 634
       }
     }
   }
